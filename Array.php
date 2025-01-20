@@ -1,5 +1,6 @@
 <?php
 echo "<h1> Ejercicio 1</h1>";
+
 $contador = 1;
 $array = array(
     'nombre' => 'Sara',
